@@ -1,8 +1,4 @@
-Statistical-Modeling
 
-Name: Ashwin Babu
-ID: 1001392860
-Class: CSE 5301
 
 Programming Language Used: Java 8, Inc.
 --------------------------
